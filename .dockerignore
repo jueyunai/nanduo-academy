@@ -1,0 +1,7 @@
+node_modules
+dist
+.git
+.mcp.json
+.claude
+.manus-logs
+*.log
