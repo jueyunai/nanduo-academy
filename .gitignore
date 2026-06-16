@@ -117,6 +117,9 @@ client/public/__manus__/version.json
 *.png
 *.jpg
 *.jpeg
+
+# 例外：站点实际使用的静态资源 logo 需入库
+!client/public/logo.png
 *.gif
 *.bmp
 *.svg
