@@ -192,7 +192,7 @@ export default function ContactSection() {
             {/* Logo */}
             <div className="flex items-center gap-3">
               <img
-                src="/manus-storage/logo_ink_transparent_7642ca89.png"
+                src="/logo.png"
                 alt="南铎书院"
                 className="h-12 w-12 object-contain opacity-80"
                 style={{ filter: "none" }}
